@@ -1,0 +1,18 @@
+// tsconfig.build.json  (used only for `tsc -p tsconfig.build.json` to emit dist)
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "declaration": true,
+        "outDir": "dist",
+        "rootDir": "src",
+        "types": []
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "test"
+    ]
+}

@@ -1,0 +1,13 @@
+// tsconfig.json  (used by editor + ts-jest + general dev)
+{
+    
+    "compilerOptions": {
+        "target": "ES2022",
+        "module": "ES2022",
+        "moduleResolution": "Bundler",
+        "strict": true,
+        "types": ["jest"],
+        "esModuleInterop" : true
+    },
+    "include": ["src", "test"]
+}
