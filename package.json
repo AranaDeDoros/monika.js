@@ -1,5 +1,5 @@
 {
-  "name": "monika.js",
+  "name": "monika",
   "version": "1.0.0",
   "description": "microlibrary to handle japanese strings, ported from Nim",
   "repository":"https://github.com/AranaDeDoros/monika.js",
