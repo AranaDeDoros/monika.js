@@ -14,7 +14,7 @@ import {
     scriptSummary,
     JpnScript,
     jpn,
-} from "monika";
+} from "monika.js";
 
 describe("Japanese string utilities", () => {
     describe("containsHiragana", () => {

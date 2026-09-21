@@ -3,6 +3,11 @@
 
 Port from the nim library [Monika](https://github.com/AranaDeDoros/Monika/).
 
+
+## Install
+```bash
+npm i monika.js
+```
 ## Usage
 
 ```typescript
@@ -139,4 +144,3 @@ toHalfWidth("ハロー！");
 ```
 
 Use `jpn()` when you prefer a fluent API or want to perform several operations on the same string.
- 
