@@ -13,7 +13,7 @@ const config: Config = {
         ],
     },
     moduleNameMapper: {
-        "^monika$": "<rootDir>/src/index.ts",
+        "^monika\\.js$": "<rootDir>/src/index.ts",
         "^(\\.\\.?\\/.*)\\.js$": "$1",
     },
 };

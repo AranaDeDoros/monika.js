@@ -2,7 +2,7 @@
   "name": "monika.js",
   "version": "1.0.0",
   "description": "microlibrary to handle japanese strings, ported from Nim",
-  "repository":"https://github.com/AranaDeDoros/monika.js",
+  "repository": "https://github.com/AranaDeDoros/monika.js",
   "keywords": [
     "typescript",
     "japanese",
@@ -31,6 +31,7 @@
     "@types/jest": "^30.0.0",
     "jest": "^30.5.1",
     "ts-jest": "^29.4.12",
+    "ts-node": "^10.9.2",
     "typescript": "5.7"
   }
 }
